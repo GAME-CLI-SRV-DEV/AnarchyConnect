@@ -1,9 +1,19 @@
 # AnarchyConnect
-a [CForms](https://github.com/kejonaMC/CrossplatForms) Powered Geyser-ViaProxy Service Connection Manager For TRUE ANARCHIST
+a [CForms](https://github.com/kejonaMC/CrossplatForms) or [ViaProxy](https://github.com/viaversion/viaproxy) Powered Geyser-ViaProxy Service Connection Manager For TRUE ANARCHIST
 (USED FOR CONNECTING TO CRACKED ANARCHY SERVER)
 
-> [!Warning]
-> This Service is Bedrock Edition(horion) use Only. this is the service intended to target geyser-viaproxy(floodgate), geyser-spigot(floodgate), geyser-standalone(floodgate).
+# Using With Geyser-ViaProxy
+ViaProxy plugin version of AnarchyConnect relys on ViaProxy and GeyserMC, if Geyser-ViaProxy is not installed, then you can't use it.
+
+1. Download AnarchyConnect-3.3.3-G2.4.0-SNAPSHOT.jar
+2. Put it in ViaProxy Folder
+3. if you join 127.0.0.1.nip.io:25567 then you will be greeted with this form.
+ ![image](https://github.com/user-attachments/assets/614c4b35-b17f-4441-a4cf-dcb3aa4e0bd8)
+
+4. register your account(the [minecraftauth](https://github.com/raphimc/minecraftauth) will handle it)
+5. now you can join any server. Reminder: join only anarchy servers. if you join big java servers, their anticheat may ban you.
+
+WARNING! The Server May ban your ip or username! Please Be Careful!
 
 # Use on your server
 Copy this.
